@@ -18,7 +18,7 @@ description="Leia 18 build without Hulk's trakt and Debrid account"
 
 name="Hulk - Nebula Home"
 version="1.0"
-url="https://www.dropbox.com/s/u20n0lk5kslldk0/Kodi-NebulaHome.zip?dl=1"
+url="https://www.dropbox.com/s/2ezccg0o5jmapc1/Kodi-NebulaHome.zip?dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="18.4"
