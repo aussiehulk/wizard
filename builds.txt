@@ -44,7 +44,7 @@ adult="no"
 info="url.to.info"
 description="Leia 18 build without Hulk's trakt and Debrid account"
 
-name="Hulk - Leia Home"
+name="Hulk - Leia Home Spiro"
 version="2.0"
 url="https://www.dropbox.com/s/4dzuzm942iy2x0d/Kodi-LeiaHome.zip?dl=1"
 https://www.dropbox.com/s/4dzuzm942iy2x0d/Kodi-LeiaHome.zip?dl=0
