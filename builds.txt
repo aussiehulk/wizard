@@ -31,7 +31,7 @@ info="url.to.info"
 description="Leia 18 build with Hulk's trakt and Debrid account"
 
 name="Hulk - Leia Basic"
-version="1.0"
+version="2.0"
 url="https://www.dropbox.com/s/bmbquoqtyk04rdj/Kodi-LeiaBasic.zip?dl=1"
 minor="http://"
 gui="url.to.guisettings"
@@ -45,7 +45,7 @@ info="url.to.info"
 description="Leia 18 build without Hulk's trakt and Debrid account"
 
 name="Hulk - Leia Home"
-version="1.0"
+version="2.0"
 url="https://www.dropbox.com/s/4dzuzm942iy2x0d/Kodi-LeiaHome.zip?dl=1"
 https://www.dropbox.com/s/4dzuzm942iy2x0d/Kodi-LeiaHome.zip?dl=0
 minor="http://"
