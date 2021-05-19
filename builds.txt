@@ -46,7 +46,7 @@ description="Leia 18 build without Hulk's trakt and Debrid account"
 
 name="Hulk - Leia Home Spiro"
 version="2.0"
-url="http://aussiehulk.com/Wizard/Kodi-LeiaHome.zip"
+url="https://www.dropbox.com/s/kq23ids69bc1mz6/Kodi-LeiaHome.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.9"
