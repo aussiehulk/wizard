@@ -1,6 +1,6 @@
 id="plugin.program.hulkswizard"
 version="2.0.0"
-zip="url.to.wizard""
+zip="https://aussiehulk.github.io"
 
 name="Hulk - Nebula Basic"
 version="1.0"
