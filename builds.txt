@@ -18,7 +18,7 @@ description="Leia 18 build without Hulk's trakt and Debrid account"
 
 name="Hulk - Leia Home - Github"
 version="2.0"
-url="https://www.dropbox.com/s/kq23ids69bc1mz6/Kodi-LeiaHome.zip?dl=1"
+url="https://www.dropbox.com/s/e9lzehewp7iftwk/Kodi-LeiaHome.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.9"
