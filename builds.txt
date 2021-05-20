@@ -4,7 +4,7 @@ zip="https://aussiehulk.github.io"
 
 name="Hulk - Leia Basic - Github"
 version="2.0"
-url="https://www.dropbox.com/s/bmbquoqtyk04rdj/Kodi-LeiaBasic.zip?dl=1"
+url="https://www.dropbox.com/s/2w163ekp8csbip6/Kodi-LeiaBasic.zip?dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="18.9"
